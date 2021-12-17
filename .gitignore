@@ -1,0 +1,4 @@
+# git ignore
+market/secret.json
+market/applications/*/migrations/*
+!market/applications/*/migrations/__init__.py
